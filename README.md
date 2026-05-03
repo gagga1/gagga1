@@ -11,5 +11,5 @@ Stack I usually reach for: Rust, TypeScript, React, Tauri 2. Sometimes Python wh
 
 ### Find me
 
-Ko-fi for support and updates: [ko-fi.com/gagga1](https://ko-fi.com/gagga1)
+Ko-fi for support and updates: [ko-fi.com/gagga1](https://ko-fi.com/gagga1)\
 Discord username: `000008653` (DM open, server soon)
