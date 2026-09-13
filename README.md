@@ -1,8 +1,8 @@
 ## hi, gagga here
 
-I build Windows tools. The current main project is Berserk Searcher, a Tauri based OSINT tool focused on efficiency and a clean UI. There's more cooking, but that one's the public one for now.
+I build Windows tools. The current main project is Berserk Searcher, a Tauri based OSINT tool focused on efficiency and a clean UI. The only public projet is [**Berserk Auto Clicker**](https://github.com/gagga1/Berserk-AutoClicker) for now.
 
-Stack I usually reach for: Rust, TypeScript, React, Tauri 2. Sometimes Python when I just need things done quick.
+Stack I usually reach for: Rust, TypeScript, React, Tauri 2. Sometimes Python when I just need things done quickly.
 
 ### Currently shipping
 
